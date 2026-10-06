@@ -29,7 +29,7 @@ PrepPW
         >
           <Send className="h-4 w-4" />
           <span className="hidden xs:inline sm:inline">Contact Developer</span>
-          <span className="xs:hidden sm:hidden">Join</span>
+          <span className="xs:hidden sm:hidden">Contact Developer</span>
         </a>
       </div>
     </header>
